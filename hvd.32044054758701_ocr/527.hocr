@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/66/hvd.32044054758701/527.png"; bbox 0 0 2017 3083; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 820 801 1183 884">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 820 801 1183 884">
+     <span class='ocr_line' id='line_1_1' title="bbox 820 801 1183 884; baseline 0.03 -12"><span class='ocrx_word' id='word_1_1' title='bbox 820 801 877 855; x_wconf 12' lang='grc' dir='ltr'>’Ἴ</span> <span class='ocrx_word' id='word_1_2' title='bbox 899 826 988 876; x_wconf 75' lang='grc' dir='ltr'>ῘΗὶΞ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1016 833 1183 884; x_wconf 83' lang='lat' dir='ltr'>VOLUME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 809 890 1268 955">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 809 890 1268 955">
+     <span class='ocr_line' id='line_1_2' title="bbox 809 890 1268 955; baseline 0.039 -18"><span class='ocrx_word' id='word_1_4' title='bbox 809 890 913 939; x_wconf 83' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_5' title='bbox 941 898 1020 943; x_wconf 86' lang='grc' dir='ltr'>ΝΟῘ</span> <span class='ocrx_word' id='word_1_6' title='bbox 1046 903 1268 955; x_wconf 79' lang='lat' dir='ltr'>ClRCUlATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 804 958 1271 1021">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 804 958 1271 1021">
+     <span class='ocr_line' id='line_1_3' title="bbox 804 958 1271 1021; baseline 0.039 -18"><span class='ocrx_word' id='word_1_7' title='bbox 804 958 976 1009; x_wconf 71' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1000 967 1075 1013; x_wconf 85' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1102 970 1271 1021; x_wconf 68' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>

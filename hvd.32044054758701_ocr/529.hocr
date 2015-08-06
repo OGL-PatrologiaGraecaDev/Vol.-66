@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/66/hvd.32044054758701/529.png"; bbox 0 0 4034 6166; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 4407 39 4732">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 4407 39 4732">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 4407 39 4732; baseline 0 -64"><span class='ocrx_word' id='word_1_1' title='bbox 0 4407 39 4732; x_wconf 60' lang='grc' dir='ltr'>ἒς</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1552 1579 2282 1716">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1552 1579 2282 1716">
+     <span class='ocr_line' id='line_1_2' title="bbox 1552 1579 2282 1716; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1552 1579 1572 1585; x_wconf 68' lang='grc'><strong>”</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1713 1623 1893 1716; x_wconf 74' lang='lat' dir='ltr'>THiS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1948 1623 2282 1716; x_wconf 72' lang='lat' dir='ltr'>VOLUME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1541 1758 2456 1852">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1541 1758 2456 1852">
+     <span class='ocr_line' id='line_1_3' title="bbox 1541 1758 2456 1852; baseline 0.005 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1541 1758 1749 1849; x_wconf 86' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_6' title='bbox 1806 1761 1962 1849; x_wconf 82' lang='lat' dir='ltr'>NOT</span> <span class='ocrx_word' id='word_1_7' title='bbox 2015 1758 2456 1852; x_wconf 68' lang='lat' dir='ltr'>CIRCUIATE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1535 1893 2468 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1535 1893 2468 1985">
+     <span class='ocr_line' id='line_1_4' title="bbox 1535 1893 2468 1985; baseline 0.002 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1535 1893 1878 1983; x_wconf 71' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1926 1895 2078 1985; x_wconf 84' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_10' title='bbox 2132 1895 2468 1984; x_wconf 64' lang='lat' dir='ltr'>UBRAEY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
